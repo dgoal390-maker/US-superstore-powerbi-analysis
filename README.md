@@ -26,6 +26,7 @@ The objective is to identify business trends, highlight loss-making products, an
 4. Business Investigation -- Product-level cost and margin daignostics.
 
 **key Business Insights**
+
 **1.office Supplies Performance**
 Office Supplies recorded 871 orders approximately $89,525 in profit, and a profit margin of 16.24%. Its average order value was approximately $633.
 
