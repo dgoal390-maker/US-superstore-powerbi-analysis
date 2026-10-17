@@ -20,6 +20,7 @@ The objective is to identify business trends, highlight loss-making products, an
 * Data visualisation and business Analysis.
 
 **Report Pages**
+
 1.Executive Overview-- Sales, Profit, Profit margin, orders, and AOV.
 2.Profitability and Discount Analysis-- Discount patterns and Profitability metrics.
 3.Product Profitability and Diagnostics -- Top-performing and loss-making products.
